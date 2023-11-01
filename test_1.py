@@ -28,5 +28,5 @@ def test_count_common_elements_duplicate_elements():
     assert result == 2
 
 # Запускаем тесты с помощью pytest
-if __name__ == "__main__":
+if __name__ == "pymain__":
     pytest.main()
